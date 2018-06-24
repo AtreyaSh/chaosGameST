@@ -1,3 +1,5 @@
-# Chaos game and fractals
+# Chaos game and the Sierpinski triangle
 
-Experimental chaos game, join in!
+Here we will explore a chaos game and how it converges to the well-known Sierpinski triangle fractal.
+
+Check out the Jupyter notebook file `chaosGame.ipynb` for a detailed overview of the process and results!
