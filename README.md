@@ -32,15 +32,15 @@ This iterative process should lead to a beautiful convergence. Let's try this ou
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game400.png" width="500">
 
-### N = 1000
+### N = 1,000
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game1000.png" width="500">
 
-### N = 2000
+### N = 2,000
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game2000.png" width="500">
 
-### N = 10000
+### N = 10,000
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game10000.png" width="500">
 
