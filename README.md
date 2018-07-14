@@ -22,7 +22,7 @@ The motivation for this project was this brilliant [video](https://www.youtube.c
 
 This iterative process should lead to a beautiful convergence. Let's try this out below!
 
-## Visualizations
+## Visualization
 
 Here we present a nice gif of this chaos game. The iterations range from 1-100 with a step of 1. Then, the iterations jump from 500 to 10,000; with steps of 500. This is done to speed up the visualization process.
 
