@@ -24,24 +24,8 @@ This iterative process should lead to a beautiful convergence. Let's try this ou
 
 ## Visualizations
 
-### N = 100
+Here we present a nice gif of this chaos game. The iterations range from 1-100 with a step of 1. Then, the iterations jump from 500 to 10,000; with steps of 500. This is done to speed up the visualization process.
 
-<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game100.png" width="500">
-
-### N = 400
-
-<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game400.png" width="500">
-
-### N = 1,000
-
-<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game1000.png" width="500">
-
-### N = 2,000
-
-<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game2000.png" width="500">
-
-### N = 10,000
-
-<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/images/chaos_game10000.png" width="500">
+<img src="https://github.com/AtreyaSh/chaosGameST/blob/master/gif/chaosGame10000.gif" width="500">
 
 Math is beautiful!

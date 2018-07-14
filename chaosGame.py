@@ -8,7 +8,7 @@ import os
 # set default figure size
 plt.rcParams['figure.figsize'] = (10.0, 8.0)
 
-def Chaos_Game(start=None,n=None):
+def chaosGame(start=None,n=None):
 
     plt.scatter([0,2,4], [0,4,0])
     bounds = ([0,0],[2,4],[4,0])
@@ -35,4 +35,4 @@ def Chaos_Game(start=None,n=None):
     return None
 
 # test an example
-Chaos_Game(n=10000)
+chaosGame(n=10000)
