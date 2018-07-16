@@ -24,7 +24,7 @@ This iterative process should lead to a beautiful convergence. Let's try this ou
 
 ## Visualization
 
-Here we present a nice gif of this chaos game. The iterations range from 1-100 with a step of 1. Then, the iterations jump from 500 to 10,000; with steps of 500. This is done to speed up the visualization process.
+Here we present a nice gif of this chaos game. The iterations range from 1-100 with a step of 1. Then, the iterations jump from 100 to 10,000 with a step of 100. This is done to speed up the visualization process.
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/gif/chaosGame10000.gif" width="500">
 
