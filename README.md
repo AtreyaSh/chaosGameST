@@ -24,7 +24,13 @@ This iterative process should lead to a beautiful convergence. Let's try this ou
 
 ## Visualization for N = 10,000
 
-Here we present a nice gif of this chaos game with `N = 10,000`. The iterations range from `N = 1` to `N = 100` with a step of 1. Then, the iterations jump from `N = 100` to `N = 10,000` with a step of 100. This is done to speed up the visualization process.
+Here we present a nice gif of this chaos game with `N = 10,000`. 
+
+1. The iterations range from `N = 1` to `N = 100` with a step of 1. 
+
+2. Then, the iterations jump from `N = 100` to `N = 10,000` with a step of 100. 
+
+   This is done to speed up the visualization process.
 
 <img src="https://github.com/AtreyaSh/chaosGameST/blob/master/gif/chaosGame10000.gif" width="500">
 
